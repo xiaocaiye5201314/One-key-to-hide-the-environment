@@ -1,5 +1,6 @@
 此脚本支持Magisk、Alpha、kitsune、KernelSU、KernelSUNext、APatch、APatchNext<br>
 没有任何后门！<br>
+由于某些原因，此脚本不会开源<br>
 仅支持安卓11或以上的设备<br>
 执行此脚本必须要有Root权限<br>
 个人推荐使用 Alpha 面具<br>
